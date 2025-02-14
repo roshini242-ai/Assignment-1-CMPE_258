@@ -4,6 +4,7 @@ A. Colab: Use deepseek Janus to create very interesting images with prompt. Also
 Provide the colab with outputs in github 
 
 B. Use bolt.diy to build an interesting full stack App. Walk thru the final app demo in a video. Checkin all the code artifacts 
+Link: https://drive.google.com/file/d/1m_az8Oca1SQ_u8iYTEDzs_dFjojPplAn/view?usp=sharing
 
 C. Use cursor To generate neural network code for mnist classifier using keras  along with all the supporting metrics like shown in the class. Walk thru the process and code in YouTube video
 
