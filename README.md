@@ -9,7 +9,7 @@ Link: https://drive.google.com/file/d/1m_az8Oca1SQ_u8iYTEDzs_dFjojPplAn/view?usp
 
 C. Use cursor To generate neural network code for mnist classifier using keras  along with all the supporting metrics like shown in the class. Walk thru the process and code in YouTube video
 
-Link: https://drive.google.com/file/d/1m_az8Oca1SQ_u8iYTEDzs_dFjojPplAn/view?usp=sharing
+Link: https://drive.google.com/file/d/1gyPa5KrmEOouSPevGsPfIK-bQp5EH1Hn/view?usp=sharing
 
 D. Use roo code and aider to create A simple full stack app locally - hint 
 
